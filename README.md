@@ -1,2 +1,3 @@
 # MyTestProject
 MyTestProject
+hawk test
